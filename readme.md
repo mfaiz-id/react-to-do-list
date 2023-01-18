@@ -6,4 +6,4 @@ I got this tutorial from the following link: [Here](https://www.youtube.com/watc
 
 ## Screenshot
 
-![image]https://user-images.githubusercontent.com/19487145/213082379-4c93f52f-9b9c-4163-baa2-1bb8e8d98377.jpeg
+![Image](https://user-images.githubusercontent.com/19487145/213082379-4c93f52f-9b9c-4163-baa2-1bb8e8d98377.jpeg)

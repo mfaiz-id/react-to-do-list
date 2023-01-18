@@ -3,7 +3,7 @@ export default function Input({ type = 'text', ...props }) {
     <input
       {...props}
       type={type}
-      className='transition duration-300 w-full focus:outline-none focus:ring focus:ring-blue-200 focus:border-blue-400 border-slate-300 shadow-sm rounded-lg'
+      className='inline-flex w-full transition duration-300 rounded-lg shadow-sm focus:outline-none focus:ring focus:ring-blue-200 focus:border-blue-400 border-slate-300'
     />
   );
 }

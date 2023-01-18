@@ -1,5 +1,10 @@
 import PlaceContentCenter from './components/PlaceContentCenter';
+import Todo from './components/Todo';
 
 export default function App() {
-  return <PlaceContentCenter></PlaceContentCenter>;
+  return (
+    <PlaceContentCenter>
+      <Todo></Todo>
+    </PlaceContentCenter>
+  );
 }
